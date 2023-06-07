@@ -1,0 +1,25 @@
+table 
+{
+    margin: 20% 20%;
+
+}
+button 
+{
+    height: 150px; ;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    left: 20%;
+    top: 20%;
+}
+.clean 
+{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
+.score 
+{
+ display: flex;
+ border: 50%;
+}
